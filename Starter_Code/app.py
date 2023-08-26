@@ -29,6 +29,7 @@ session = Session(engine)
 # Flask Setup
 #################################################
 
+app = Flask(__name__)
 
 
 
